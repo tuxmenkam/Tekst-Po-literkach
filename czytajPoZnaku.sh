@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Program, który napiszę tekst znajdujący jako argument programu, a następnie powie go po literce 
 # UWAGA: program wymaga pakietu 'espeak'

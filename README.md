@@ -6,3 +6,5 @@ Ten program czyta tekst podany w parametrze po jednym znaku
 
 * espeak
 
+* bash
+
